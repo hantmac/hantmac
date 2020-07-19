@@ -2,6 +2,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-hantmac-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hantmac)](https://twitter.com/hantmac)  [![Linkedin Badge](https://img.shields.io/badge/-cloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E5%B1%B1%E6%9D%B0-%E9%9F%A9-543003102//)]( https://www.linkedin.com/in/%E5%B1%B1%E6%9D%B0-%E9%9F%A9-543003102/) [![Gmail Badge](https://img.shields.io/badge/-hantmac558@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hantmac558@gmail.com)](mailto:hantmac558@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 **🌱 Currently working on:**
 
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
