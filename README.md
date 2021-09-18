@@ -16,11 +16,11 @@
 ### About
 🔭 I'm the author of [fuckdb](https://github.com/hantmac/fuckdb) which is a useful tool to generate golang strcut with 'gorm' tag according mysql schema.
 
-👯 I'm the member of [crawlab](https://github.com/crawlab-team/crawlab) 
+👯 I'm the member of [OpenKruise](https://github.com/openkruise),[crawlab](https://github.com/crawlab-team/crawlab)
 
 ⚡ Crontribution to [ent](https://github.com/facebookincubator/ent)
 
-🌱 Founder of [mastering_go_cn](https://github.com/hantmac/Mastering_Go_ZH_CN), [python-interview](https://github.com/hantmac/Python-Interview-Customs-Collection)
+🌱 Founder of [triton-io](https://github.com/triton-io),[mastering_go_cn](https://github.com/hantmac/Mastering_Go_ZH_CN), [python-interview](https://github.com/hantmac/Python-Interview-Customs-Collection)
  
 - **Forcus:** Kubernetes, Docker, Cloud Native, Open-Source :fire:	
 -  **Languages :** Go, Python, JavaScript
