@@ -14,7 +14,7 @@
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 ### About
-🔭 I'm the author of [fuckdb](https://github.com/hantmac/fuckdb) which is a usefull tool to generate golang strcut with 'gorm' tag according mysql schema.
+🔭 I'm the author of [fuckdb](https://github.com/hantmac/fuckdb) which is a useful tool to generate golang strcut with 'gorm' tag according mysql schema.
 
 👯 I'm the member of [crawlab](https://github.com/crawlab-team/crawlab) 
 
