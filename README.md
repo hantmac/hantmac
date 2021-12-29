@@ -18,7 +18,7 @@
 
 👯 I'm the member of [OpenKruise](https://github.com/openkruise),[crawlab](https://github.com/crawlab-team/crawlab)
 
-⚡ Crontribution to [ent](https://github.com/facebookincubator/ent)
+⚡ Crontribution to [ent](https://github.com/facebookincubator/ent),[kruise-tools](https://github.com/openkruise/kruise-tools)
 
 🌱 Founder of [triton-io](https://github.com/triton-io),[mastering_go_cn](https://github.com/hantmac/Mastering_Go_ZH_CN), [python-interview](https://github.com/hantmac/Python-Interview-Customs-Collection)
  
