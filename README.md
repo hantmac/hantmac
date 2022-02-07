@@ -26,7 +26,6 @@
 -  **Languages :** Go, Python, JavaScript
 -  **Hobbies :** Articles :book: & Music :headphones: & BasketBall :basketball: & Racing :car:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** Energey Company
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
