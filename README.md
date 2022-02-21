@@ -35,6 +35,5 @@
 
 ![](https://komarev.com/ghpvc/?username=hantmac)
 
-[![HN3DMt.png](https://s4.ax1x.com/2022/02/10/HN3DMt.png)](https://imgtu.com/i/HN3DMt)
 
 
