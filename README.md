@@ -20,7 +20,7 @@
 
 🌱 Founder of [kruise-tools](https://github.com/openkruise/kruise-tools), [triton-io](https://github.com/triton-io),[mastering_go_cn](https://github.com/hantmac/Mastering_Go_ZH_CN), [python-interview](https://github.com/hantmac/Python-Interview-Customs-Collection)
  
-- **Forcus:** Kubernetes, Docker, Cloud Native, Open-Source :fire:	
+- **Focus:** Kubernetes, Docker, Cloud Native, Open-Source :fire:	
 -  **Languages :** Go, Python, Rust, Java
 -  **Hobbies :** Articles :book: & Music :headphones: & BasketBall :basketball: & Racing :car:
 -  **Fact :** First solve the problem, then write the code :heart: 
